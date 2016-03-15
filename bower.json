@@ -3,8 +3,7 @@
   "description": "Web based JavaScript HTML WYSIWYG editor control.Custom Install for CMS5",
   "license": "GNU-3",
   "keywords": [
-    "cms5",
-   
+    "cms5"
   ],
   "homepage": "https://github.com/clockworkmarketing/cms5-tinymce",
   "ignore": [
